@@ -1,1 +1,8 @@
 # hello this is comment
+*.txt
+*.csv
+*.zip
+*.gz
+clean/cost
+clean/hc
+clean/hc_short
